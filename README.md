@@ -1,3 +1,3 @@
-# Chapter-26-Data-Visualization
+# Chapter-25-Data-Visualization
 **Author** 
 * Johanna Schmidt - VRVis
