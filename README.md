@@ -1,6 +1,6 @@
 # Chapter 25: Data Visualization
 
-## Why, when, and how to apply data visualization techniques in the data analysis process.
+## Why, when, and how to apply data visualization techniques in the data analysis process
 ## http://www.datascience-in-tourism.com/
 
 ***Johanna Schmidt*** 
