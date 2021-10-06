@@ -7,7 +7,7 @@
 * VRVis Research GmbH
 
 **Content**
-The repository contains all code and files that were used for the tourism data analysis example in Chapter 25.
+* The repository contains all code and files that were used for the tourism data analysis example in Chapter 25.
 
 ### Abstract
 
